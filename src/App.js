@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Button from "@mui/material/Button";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+          <Button>Test</Button>
           Learn React
         </a>
       </header>
